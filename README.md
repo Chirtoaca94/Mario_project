@@ -8,5 +8,7 @@ A simple Mario_based SQL project
 ## Project description:
 
 • Creating a database and tables from scratch using MySQL Workbench syntax
+<br>
 • Populating those tables with some basic information
+<br>
 • Viewing those tables using a join query 
